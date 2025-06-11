@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'NewYork';
+  src: url('../fonts/nyregular.ttf');
+}
+
+@font-face {
+  font-family: 'SFRegular';
+  src: url('../fonts/SFmonoRegular.otf');
+}
+
+@font-face {
+  font-family: 'SFPRODISPLAY';
+  src: url('../fonts/SFPRODISPLAYREGULAR.OTF');
+}
+
+@font-face {
+  font-family: 'SFPROTEXT';
+  src: url('../fonts/SFProText-Regular.ttf');
+}
